@@ -50,7 +50,7 @@ curl -O "https://i.imgur.com/CSRiAeN.jpg"
 
 更多关于 cURL 及其选项的信息，请参阅 [我们的 cURL 指南](https://www.bright.cn/blog/web-data/what-is-curl)。
 
-## 使用 cURL 下载文件：高级选项
+## 使用 cURL 下载文件高级选项
 
 让我们学习一些其他选项。
 
